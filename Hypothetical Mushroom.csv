@@ -1,0 +1,11 @@
+﻿cap_shape,cap-color,odor,habitat,class
+c,w,p,m,edible
+f,y,n,u,edible
+f,y,p,u,edible
+c,w,a,u,edible
+c,w,a,l,edible
+c,y,n,l,poisonous
+f,g,p,m,poisonous
+b,r,n,l,poisonous
+b,y,p,m,poisonous
+c,y,s,m,poisonous
